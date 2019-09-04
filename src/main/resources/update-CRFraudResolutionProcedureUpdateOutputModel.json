@@ -1,0 +1,21 @@
+{
+  "fraudResolutionInstanceRecord" : {
+    "date" : "09-22-2018",
+    "transactionRecord" : {},
+    "transactionReference" : "726107",
+    "contactReference" : "703892",
+    "caseLocation" : "caseLocation",
+    "fraudCaseType" : "fraudCaseType",
+    "interstedPartyReference" : "725214",
+    "productInstanceReference" : "709359",
+    "employeeBusinessUnitReference" : "794313",
+    "fraudCaseWorkProducts" : "fraudCaseWorkProducts",
+    "customerReference" : "700123",
+    "fraudCaseResolutionSchedule" : "fraudCaseResolutionSchedule",
+    "fraudCaseStatus" : "fraudCaseStatus",
+    "merchantReference" : "780202"
+  },
+  "fraudResolutionProcedureUpdateActionTaskRecord" : {},
+  "fraudResolutionProcedureUpdateActionTaskReference" : "FRPUATR747201",
+  "updateResponseRecord" : {}
+}

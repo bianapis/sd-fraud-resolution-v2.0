@@ -1,0 +1,12 @@
+{
+  "fraudResolutionInstanceRecord" : {
+    "fraudCaseWorkProducts" : "fraudCaseWorkProducts",
+    "fraudCaseResolutionSchedule" : "fraudCaseResolutionSchedule",
+    "fraudCaseStatus" : "fraudCaseStatus",
+    "fraudCaseType" : "fraudCaseType"
+  },
+  "fraudResolutionProcedureInitiateActionRecord" : {},
+  "fraudResolutionProcedureInstanceStatus" : "fraudResolutionProcedureInstanceStatus",
+  "fraudResolutionProcedureInstanceReference" : "FRPIR778063",
+  "fraudResolutionProcedureInitiateActionReference" : "FRPIAR732607"
+}

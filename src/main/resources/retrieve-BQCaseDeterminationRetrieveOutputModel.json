@@ -1,0 +1,45 @@
+{
+  "caseDeterminationInstanceRecord" : {
+    "customerAgreement" : "customerAgreement",
+    "interestedPartyAgreement" : "interestedPartyAgreement",
+    "fraudCaseDeterminationRecord" : {},
+    "merchantAgreementReference" : "715221",
+    "interestedPartyAgreementReference" : "743054",
+    "customerAgreementReference" : "710856",
+    "merchantAgreement" : "merchantAgreement"
+  },
+  "caseDeterminationRetrieveActionTaskRecord" : {},
+  "caseDeterminationInstanceReport" : {
+    "caseDeterminationInstanceReport" : {},
+    "caseDeterminationInstanceReportRecord" : {},
+    "caseDeterminationInstanceReportType" : "caseDeterminationInstanceReportType",
+    "caseDeterminationInstanceReportParameters" : "caseDeterminationInstanceReportParameters"
+  },
+  "fraudResolutionInstanceRecord" : {
+    "date" : "09-22-2018",
+    "transactionRecord" : {},
+    "transactionReference" : "764045",
+    "contactReference" : "725202",
+    "caseLocation" : "caseLocation",
+    "fraudCaseType" : "fraudCaseType",
+    "interstedPartyReference" : "758612",
+    "productInstanceReference" : "724071",
+    "employeeBusinessUnitReference" : "750318",
+    "fraudCaseWorkProducts" : "fraudCaseWorkProducts",
+    "customerReference" : "784318",
+    "fraudCaseResolutionSchedule" : "fraudCaseResolutionSchedule",
+    "fraudCaseStatus" : "fraudCaseStatus",
+    "merchantReference" : "798993"
+  },
+  "caseDeterminationRetrieveActionTaskReference" : "CDRATR749568",
+  "caseDeterminationInstanceAnalysis" : {
+    "caseDeterminationInstanceAnalysisReportType" : "caseDeterminationInstanceAnalysisReportType",
+    "caseDeterminationInstanceAnalysisParameters" : "caseDeterminationInstanceAnalysisParameters",
+    "caseDeterminationInstanceAnalysisReport" : {},
+    "caseDeterminationInstanceAnalysisRecord" : {}
+  },
+  "caseDeterminationRetrieveActionResponse" : "caseDeterminationRetrieveActionResponse",
+  "caseAnalysisInstanceRecord" : {
+    "fraudCaseRootCause" : "fraudCaseRootCause"
+  }
+}

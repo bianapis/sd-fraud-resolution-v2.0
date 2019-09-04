@@ -1,0 +1,48 @@
+{
+  "caseResolutionInstanceReport" : {
+    "caseResolutionInstanceReport" : {},
+    "caseResolutionInstanceReportType" : "caseResolutionInstanceReportType",
+    "caseResolutionInstanceReportParameters" : "caseResolutionInstanceReportParameters",
+    "caseResolutionInstanceReportRecord" : {}
+  },
+  "caseDeterminationInstanceRecord" : {
+    "fraudCaseDeterminationRecord" : {}
+  },
+  "caseResolutionInstanceAnalysis" : {
+    "caseResolutionInstanceAnalysisRecord" : {},
+    "caseResolutionInstanceAnalysisReportType" : "caseResolutionInstanceAnalysisReportType",
+    "caseResolutionInstanceAnalysisParameters" : "caseResolutionInstanceAnalysisParameters",
+    "caseResolutionInstanceAnalysisReport" : {}
+  },
+  "fraudResolutionInstanceRecord" : {
+    "date" : "09-22-2018",
+    "transactionRecord" : {},
+    "transactionReference" : "736018",
+    "contactReference" : "722612",
+    "caseLocation" : "caseLocation",
+    "fraudCaseType" : "fraudCaseType",
+    "interstedPartyReference" : "736151",
+    "productInstanceReference" : "749361",
+    "employeeBusinessUnitReference" : "702383",
+    "fraudCaseWorkProducts" : "fraudCaseWorkProducts",
+    "customerReference" : "792354",
+    "fraudCaseResolutionSchedule" : "fraudCaseResolutionSchedule",
+    "fraudCaseStatus" : "fraudCaseStatus",
+    "merchantReference" : "722074"
+  },
+  "caseResolutionRetrieveActionResponse" : "caseResolutionRetrieveActionResponse",
+  "caseResolutionRetrieveActionTaskReference" : "CRRATR704700",
+  "caseResolutionRetrieveActionTaskRecord" : {},
+  "caseAnalysisInstanceRecord" : {
+    "fraudCaseRootCause" : "fraudCaseRootCause"
+  },
+  "caseResolutionInstanceRecord" : {
+    "employeeBusinessUnitReference" : "772297",
+    "correspondenceReference" : "716566",
+    "consortiaReportingInstanceReference" : "718153",
+    "fraudCaseResolutionRecord" : {},
+    "adjustmentChargebackReference" : "730907",
+    "documentDirectoryEntryInstanceReference" : "767192",
+    "paymentOrderReference" : "781784"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "caseAnalysisInstanceReport" : {
+    "caseAnalysisInstanceReport" : {},
+    "caseAnalysisInstanceReportParameters" : "caseAnalysisInstanceReportParameters",
+    "caseAnalysisInstanceReportType" : "caseAnalysisInstanceReportType",
+    "caseAnalysisInstanceReportRecord" : {}
+  },
+  "fraudResolutionInstanceRecord" : {
+    "date" : "09-22-2018",
+    "transactionRecord" : {},
+    "transactionReference" : "785728",
+    "contactReference" : "796051",
+    "caseLocation" : "caseLocation",
+    "fraudCaseType" : "fraudCaseType",
+    "interstedPartyReference" : "756355",
+    "productInstanceReference" : "782769",
+    "employeeBusinessUnitReference" : "728555",
+    "fraudCaseWorkProducts" : "fraudCaseWorkProducts",
+    "customerReference" : "760549",
+    "fraudCaseResolutionSchedule" : "fraudCaseResolutionSchedule",
+    "fraudCaseStatus" : "fraudCaseStatus",
+    "merchantReference" : "748162"
+  },
+  "caseAnalysisRetrieveActionTaskReference" : "CARATR705136",
+  "caseAnalysisRetrieveActionResponse" : "caseAnalysisRetrieveActionResponse",
+  "caseAnalysisRetrieveActionTaskRecord" : {},
+  "caseAnalysisInstanceAnalysis" : {
+    "caseAnalysisInstanceAnalysisParameters" : "caseAnalysisInstanceAnalysisParameters",
+    "caseAnalysisInstanceAnalysisReportType" : "caseAnalysisInstanceAnalysisReportType",
+    "caseAnalysisInstanceAnalysisRecord" : {},
+    "caseAnalysisInstanceAnalysisReport" : {}
+  },
+  "caseAnalysisInstanceRecord" : {
+    "fraudCaseRootCause" : "fraudCaseRootCause"
+  }
+}

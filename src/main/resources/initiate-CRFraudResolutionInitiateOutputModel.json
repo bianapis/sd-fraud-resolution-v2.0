@@ -1,0 +1,12 @@
+{
+  "fraudResolutionInitiateActionRecord" : {},
+  "fraudResolutionInstanceRecord" : {
+    "fraudCaseWorkProducts" : "fraudCaseWorkProducts",
+    "fraudCaseResolutionSchedule" : "fraudCaseResolutionSchedule",
+    "fraudCaseStatus" : "fraudCaseStatus",
+    "fraudCaseType" : "fraudCaseType"
+  },
+  "fraudResolutionInitiateActionReference" : "FRIAR728055",
+  "fraudResolutionInstanceStatus" : "fraudResolutionInstanceStatus",
+  "fraudResolutionInstanceReference" : "FRIR713638"
+}
